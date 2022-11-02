@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<body>
+    Name: <input id="name" type="text"><br>
+   Qualification: <input id="qualification" type="text"><br>
+   Age: <input id="age" type="text"><br>
+    Email:<input id="email id" type="email"><br>
+    <button>submit</button>
+</body>
+</html>
